@@ -42,7 +42,7 @@
                 </div>
                 <div class="item2">
                   <?php if(!empty($member->mobile)): ?>
-                    <p style="margin-bottom: 0; padding: 0; font-size: 14px; color: #3C3E44;">
+                    <p style="margin-top: 14px; margin-bottom: 0; padding: 0; font-size: 14px; color: #3C3E44;">
                       <a style="color: #3C3E44; text-decoration: none;" href="tel:+44<?php echo $member->mobile; ?>">+44
                     <?php
                     $data_zero = substr($member->mobile, 0, 1);
