@@ -38,7 +38,7 @@
               <?php if(!empty($member->position)): ?><p style="margin: 0px; padding: 0; font-size: 14px; color: #3C3E44;font-weight: 700; font-weight: bold;"><?php echo $member->position; ?></p><?php endif; ?>
               <div class="grid-container">
                 <div class="item1">
-                  <a href="https://openmindwellbeing.com/" target="_blank"><img src="https://www.dropbox.com/s/2ilcqgt8z6kzf6k/OMW%20logo%20default.png?dl=1" alt="www.openmindwellbeing.com" height="40" style="margin-top: 20px"></a>
+                  <a href="https://openmindwellbeing.com/" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1k0gfnGlM8V2Sb5lqAVCt3LMfiix8poFy" alt="www.openmindwellbeing.com" height="40" style="margin-top: 20px"></a>
                 </div>
                 <div class="item2">
                   <?php if(!empty($member->mobile)): ?>
